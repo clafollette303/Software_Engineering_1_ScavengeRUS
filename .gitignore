@@ -370,3 +370,11 @@ FodyWeavers.xsd
 #edit on 11/25/2023 by Grant Scutt: add rule to ignore gmail.txt file
 gmail.txt
 /ScavengeRUs/gmail.txt
+
+#edit on 4/17/2024 by Levi Shingleton: add rule to exclude Dockerfile and docker-compose files.
+#seeks to prevent auto-generated IDE Docker config files from being pushed.
+docker-compose.dcproj
+docker-compose.override.yml
+docker-compose.yml
+ScavengeRUs/Dockerfile
+ScavengeRUs/Dockerfile.original
