@@ -107,6 +107,10 @@
 
         }
 
+        @{
+            var item_Count = 0;
+        }
+
         @foreach (var item in Model)
         {
             @* Admin can view answers to the tasks for the hunt, and don't need to complete the tasks *@
@@ -138,6 +142,10 @@
             @* User view *@
             else
             {
+                if(item_Count >= 1)
+                {
+                    break;
+                }
                 var img = $"/images/{item.Place}.jpg";
                 <div id="taskitem">
                     <a data-id="@item.Id" data-task="@item.Task" data-huntid="@hunt.Id" id="btnCreateTask" class="list-group-item list-group-item-action">
@@ -179,6 +187,7 @@
 
                     </a>
                 </div>
+                item_Count++;
             }
 
         }
