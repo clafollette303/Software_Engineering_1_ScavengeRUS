@@ -18,16 +18,15 @@ This READ ME document serves as a starting place to begin you Scrum project for 
 
 [Crash Course](Documentation/ScavengeRUs%20Crash%20Course%20Document.pdf) - Important points in the code base -- A map for the code
 
-[Google Doc Backlog](https://github.com/adverseengineer/ScavengeRUs/blob/sprint4/Documentation/Scrum%20Team.pdf) - Includes Backlog for previous semester.
+[Coding Standards](Documentation/Coding%20Standards.pdf) - Coding standards we followed
 
 [Scrum Task Management via Trello](https://trello.com/invite/b/Ams1YaTs/ATTI9ddc7b9ef33c1773008326bcd53c57a25407114D/scrum-diddly-umptious) - Trello Task Management
-
-[SE1 Project Team Discord](https://discord.gg/r9hTJWPMNA) - Previous Semesters Group Discord
 
 [Overall Discord for SE1 Projects - Past Semesters also](https://discord.gg/RchHgFK2S2) - All SE1 Semesters Discord
 
 ### BucHunt Admin Access for Tests:
  UN: waltonca@etsu.edu
+ 
  PW: YMXH@9J!72kM6Em
 
 
