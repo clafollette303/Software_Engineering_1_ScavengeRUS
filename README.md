@@ -14,7 +14,7 @@ This READ ME document serves as a starting place to begin you Scrum project for 
 
 [Email System Documentation](Documentation/Email%20System%20Documentation.pdf) - Documentation on the Email notifications
 
-[Docker Documentation](Documentation/Updated%20AWS%20and%20Docker%20Deployment%Steps.pdf) - Documentation on the Deploying with Docker and AWS notifications
+[Docker Documentation](Documentation/Updated%20AWS%20and%20Docker%20Deployment%20Steps.pdf) - Documentation on the Deploying with Docker and AWS notifications
 
 [Crash Course](Documentation/ScavengeRUs%20Crash%20Course%20Document.pdf) - Important points in the code base -- A map for the code
 
