@@ -19,7 +19,7 @@ This READ ME document serves as a starting place to begin you Scrum project for 
 
 [Coding Standards](Documentation/Coding%20Standards.pdf) - Coding standards we followed
 
-[Scrum Task Management via Trello]([https://trello.com/invite/b/Ams1YaTs/ATTI9ddc7b9ef33c1773008326bcd53c57a25407114D/scrum-diddly-umptious](https://trello.com/invite/b/P00pWw6A/ATTIb24b457a2027857ed4361c776b7dab09F24C8186/se)) - Our Trello Board
+[Scrum Task Management via Trello](https://trello.com/invite/b/P00pWw6A/ATTIb24b457a2027857ed4361c776b7dab09F24C8186/se) - Our Trello Board
 
 [Overall Discord for SE1 Projects - Past Semesters also](https://discord.gg/RchHgFK2S2) - All SE1 Semesters Discord
 
