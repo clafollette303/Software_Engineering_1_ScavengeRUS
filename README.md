@@ -1,9 +1,8 @@
 # BucHunt
 This READ ME document serves as a starting place to begin you Scrum project for SE 1.
   - Below are Documents relating to different parts of the project that will help guide you on how they work.
-  - Google Doc link includes PDF to the previous semester project notes, changes, and general information.
-  - Trello link includes our tasks that have been completed each Scrum sprint shown in Sprint completed items panels as well as incompleted items in the overall backlog panel. Each task panel includes important notes.
-  - The two discord links are to see our discussions and to reach out to the past semesters members. "SE1 Project Team" is the previous groups discord & "Overall Discord" includes all previous SE1 group memebers for this project.
+  - Trello link includes our tasks that have been completed each Scrum sprint shown in Sprint completed items panels as well as incompleted items in the overall backlog panel.
+  - The discord link are to see previous discussions and to reach out to the past semesters members. "Overall Discord" includes all previous SE1 group memebers for this project.
 
 
 ### Useful Links to Documentation:
@@ -20,7 +19,7 @@ This READ ME document serves as a starting place to begin you Scrum project for 
 
 [Coding Standards](Documentation/Coding%20Standards.pdf) - Coding standards we followed
 
-[Scrum Task Management via Trello](https://trello.com/invite/b/Ams1YaTs/ATTI9ddc7b9ef33c1773008326bcd53c57a25407114D/scrum-diddly-umptious) - Trello Task Management
+[Scrum Task Management via Trello](https://trello.com/invite/b/Ams1YaTs/ATTI9ddc7b9ef33c1773008326bcd53c57a25407114D/scrum-diddly-umptious) - Our Trello Board
 
 [Overall Discord for SE1 Projects - Past Semesters also](https://discord.gg/RchHgFK2S2) - All SE1 Semesters Discord
 
