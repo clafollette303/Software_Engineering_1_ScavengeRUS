@@ -23,6 +23,10 @@ This README serves as a starting place to begin your Scrum project for SE 1.
 
 [Overall Discord for SE1 Projects - Past Semesters also](https://discord.gg/RchHgFK2S2) - All SE1 Semesters Discord
 
+[KinserPedia](https://github.com/etsuDummy/KinserPedia) - Variety of helpful documents
+
+There are more files within the Documentation folder - the documents above are simply where you should look first.
+
 
 ### BucHunt Admin Access for Tests:
  UN: waltonca@etsu.edu
