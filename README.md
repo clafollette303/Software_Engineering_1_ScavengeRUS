@@ -8,11 +8,15 @@ This READ ME document serves as a starting place to begin you Scrum project for 
 
 ### Useful Links to Documentation:
 
-[Code Sctructure Doc](https://github.com/adverseengineer/ScavengeRUs/blob/sprint4/Documentation/Code%20Structure%20Documentation.docx) - Documentation on How BucHunt Code is Structured.
+[Code Sctructure Doc](Documentation/Code%20Structure%20Documentation.pdf) - Documentation on How BucHunt Code is Structured
 
-[Database Documentation](https://github.com/adverseengineer/ScavengeRUs/blob/sprint4/Documentation/Database%20Documentation.docx)
+[Database Documentation](Documentation/Database%20Documentation.pdf) - Information about how the Database is constructed
 
-[Email System Documentation](https://github.com/adverseengineer/ScavengeRUs/blob/sprint4/Documentation/Email%20System%20Documentation.docx) - Documentation on the Email notifications.
+[Email System Documentation](Documentation/Email%20System%20Documentation.pdf) - Documentation on the Email notifications
+
+[Docker Documentation](Documentation/Updated%20AWS%20and%20Docker%20Deployment%Steps.pdf) - Documentation on the Deploying with Docker and AWS notifications
+
+[Crash Course](Documentation/ScavengeRUs%20Crash%20Course%20Document.pdf) - Important points in the code base -- A map for the code
 
 [Google Doc Backlog](https://github.com/adverseengineer/ScavengeRUs/blob/sprint4/Documentation/Scrum%20Team.pdf) - Includes Backlog for previous semester.
 
