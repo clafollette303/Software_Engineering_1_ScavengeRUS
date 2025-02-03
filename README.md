@@ -1,8 +1,5 @@
 # BucHunt
-This README serves as a starting place to begin your Scrum project for SE 1.
-  - Below you may find documents which detail different parts of the project.
-  - Trello link includes our tasks that have been completed each Scrum sprint shown in Sprint completed items panels as well as incompleted items in the overall backlog panel.
-  - The Discord link are to see previous discussions and to reach out to the past semesters members. "Overall Discord" includes all previous SE1 group memebers for this project.
+This is a repo containing the project files for a web application developed across multiple semesters by software engineering 1 students.
 
 
 ### Useful Links to Documentation:
